@@ -1,5 +1,5 @@
 # auth [![wercker status](https://app.wercker.com/status/8e5237b01b52f169a1274fad9a89617b "wercker status")](https://app.wercker.com/project/bykey/8e5237b01b52f169a1274fad9a89617b)
-Macran middleware/handler for http basic authentication.
+Macaron middleware/handler for http basic authentication.
 
 [API Reference](http://godoc.org/github.com/nzlov/auth)
 
